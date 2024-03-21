@@ -1,9 +1,9 @@
 <scheme name="IntelliJ Light Isaac" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-07-17T14:50:33</property>
+    <property name="created">2024-03-21T22:25:48</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-07-17T14:50:46</property>
+    <property name="ideVersion">2023.2.1.0.0</property>
+    <property name="modified">2024-03-21T22:26:03</property>
     <property name="originalScheme">IntelliJ Light Isaac</property>
   </metaInfo>
   <colors>
@@ -297,6 +297,11 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="264eff" />
+      </value>
+    </option>
+    <option name="LATEX_BRACES">
+      <value>
+        <option name="FOREGROUND" value="627a" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
